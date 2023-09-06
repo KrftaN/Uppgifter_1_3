@@ -7,6 +7,7 @@ namespace Uppgift_1_3
         static void Main(string[] args)
         {
             Console.WriteLine("   /\\\n  /  \\\n / \"\" \\\n/______\\");
+            Console.ReadKey();
         }
     }
 }
